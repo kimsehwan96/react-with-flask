@@ -132,6 +132,12 @@ webpack.config.js 수정
 
 `git clone https://github.com/kimsehwan96/react-with-flask.git`
 
+`cd react-with-flask`
+
+`mkdir flask-server/static`
+
+`mkdir flask-server/templates`
+
 `cd react-app`
 
 `npm install`
