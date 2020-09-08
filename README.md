@@ -118,9 +118,22 @@ webpack.config.js 수정
 
 
 `python3 main.py`
+
 그리구
+
 `yarn build`
 
 짜잔 !
 
 ![1](./images/flask.png)
+
+
+## react build 된 앱 flask 에 올리시고 싶다면..
+
+`git clone https://github.com/kimsehwan96/react-with-flask.git`
+
+`cd react-app`
+
+`npm install`
+
+개발 시작~
