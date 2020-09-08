@@ -134,9 +134,7 @@ webpack.config.js 수정
 
 `cd react-with-flask`
 
-`mkdir flask-server/static`
 
-`mkdir flask-server/templates`
 
 `cd react-app`
 
