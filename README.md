@@ -7,17 +7,17 @@ yarn global add create-react-app react-scripts
 create-react-app react-app
 ```
 
-.
-├── README.md
-├── README.md
-└── flask-server/
-   └──static/
-   └──templates/
-   └── main.py
-└── react-app/
-   └── node_modules/
-   └── public/
-   └── src/
+.  
+├── README.md  
+├── README.md  
+└── flask-server/  
+   └──static/  
+   └──templates/  
+   └── main.py  
+└── react-app/  
+   └── node_modules/  
+   └── public/  
+   └── src/  
 
 
 - main.py 내용
