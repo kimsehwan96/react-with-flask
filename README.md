@@ -1,5 +1,8 @@
 # React APP을 플라스크 서버 위에 호스팅하기.
 
+## Npm run Eject 안해도 되는 react-with-flask-v2 프로젝트를 새로 만들었습니다.
+## https://github.com/kimsehwan96/react-with-flask-v2
+
 * yarn build 한 index.html 파일을 그대로 flask 에서 리턴하게 했더니 안되어서 시작한 테스트.
 
 ```sh
